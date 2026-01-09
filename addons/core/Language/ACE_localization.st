@@ -18,7 +18,6 @@ StringTable {
    Target_uk_ua "ACE"
    Target_es_es "ACE"
    Target_it_it "ACE"
-   Target_pt_br "ACE"
    Modified 1623668589
    Author "kexanone"
    LastChanged "kexanone"
