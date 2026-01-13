@@ -105,7 +105,7 @@ StringTable {
    Target_ru_ru "Перенести"
    Target_ja_jp "運ぶ"
    Target_ko_kr "업기"
-   Target_pt_br "Levar"
+   Target_pt_br "Carregar"
    Target_zh_cn "背負"
    Target_uk_ua "Перенести"
    Modified 1750691164
@@ -122,7 +122,7 @@ StringTable {
    Target_cs_cz "Nošení"
    Target_ru_ru "Перенос"
    Target_ko_kr "업는 중"
-   Target_pt_br "Arrastrar"
+   Target_pt_br "Levar"
    Target_zh_cn "背負中"
    Target_uk_ua "Перенесення"
    Modified 1750691202
@@ -201,7 +201,8 @@ StringTable {
    Target_it_it "Core"
    Target_es_es "Core"
    Target_ko_kr "코어"
-   Modified 1750679141
+   Target_pt_br "Core"
+   Modified 1750768621
    Author "Kex"
    LastChanged "KingDaddyBoyz"
   }

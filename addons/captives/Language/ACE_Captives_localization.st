@@ -34,7 +34,7 @@ StringTable {
    Target_de_de "Kapitulieren"
    Target_es_es "Rendirse"
    Target_ko_kr "항복"
-   Target_pt_br "desistir"
+   Target_pt_br "Desistir"
    Target_zh_cn "投降"
    Modified 1750690681
    Author "Kex"
