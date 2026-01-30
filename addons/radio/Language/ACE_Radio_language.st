@@ -4,8 +4,6 @@ StringTable {
   CustomStringTableItem "{644826487CAE8882}" {
    Id "ACE_Radio-Settings-Radio"
    Target_en_us "Radio"
-   Target_it_it "Radio"
-   Target_es_es "Radio"
    Target_pl_pl "Radio"
    Target_ko_kr "무전기"
    Target_pt_br "Rádio"
@@ -19,8 +17,6 @@ StringTable {
   CustomStringTableItem "{6448264807CE1461}" {
    Id "ACE_Radio-Settings-Radio_Beep_Ch1"
    Target_en_us "Ch.1 transmission beep"
-   Target_it_it "Segnale di trasmissione Canale 1"
-   Target_es_es "Pitido de transmisión del canal 1"
    Target_pl_pl "Pisk transmisji kanału 1"
    Target_ko_kr "1 채널 송신음"
    Target_pt_br "Sinal sonoro de transmissão do canal 1"
@@ -34,8 +30,6 @@ StringTable {
   CustomStringTableItem "{6448264808F0EDBE}" {
    Id "ACE_Radio-Settings-Radio_Beep_Ch2"
    Target_en_us "Ch.2 transmission beep"
-   Target_it_it "Segnale di trasmissione Canale 2"
-   Target_es_es "Pitido de transmisión Ch.2"
    Target_pl_pl "Pisk transmisji kanału 2"
    Target_ko_kr "2 채널 송신음"
    Target_pt_br "Sinal sonoro de transmissão do canal 2"
@@ -49,8 +43,6 @@ StringTable {
   CustomStringTableItem "{644826481FB40F2F}" {
    Id "ACE_Radio-Settings-Radio_Beep_High"
    Target_en_us "High"
-   Target_it_it "Alta"
-   Target_es_es "Alto"
    Target_pl_pl "Wysoki"
    Target_ko_kr "높음"
    Target_pt_br "Alto"
@@ -64,8 +56,6 @@ StringTable {
   CustomStringTableItem "{6448264811A5CBD7}" {
    Id "ACE_Radio-Settings-Radio_Beep_Low"
    Target_en_us "Low"
-   Target_it_it "Bassa"
-   Target_es_es "Bajo"
    Target_pl_pl "Niski"
    Target_ko_kr "낮음"
    Target_pt_br "Baixo"
@@ -79,8 +69,6 @@ StringTable {
   CustomStringTableItem "{644826480D886913}" {
    Id "ACE_Radio-Settings-Radio_Beep_Off"
    Target_en_us "Off"
-   Target_it_it "Spenta"
-   Target_es_es "Apagado"
    Target_pl_pl "Wyłączony"
    Target_ko_kr "없음"
    Target_pt_br "Desligado"
@@ -94,8 +82,6 @@ StringTable {
   CustomStringTableItem "{64482648D1C29B76}" {
    Id "ACE_Radio-Settings_Beep_Cycle"
    Target_en_us "Transceiver cycle beep"
-   Target_it_it "Segnale di ciclo del ricetrasmettitore"
-   Target_es_es "Pitido de ciclo del transceptor"
    Target_pl_pl "Pisk przy zmianie nadajnika"
    Target_ko_kr "무전기 순환음"
    Target_pt_br "Sinal sonoro do ciclo do transceptor"
